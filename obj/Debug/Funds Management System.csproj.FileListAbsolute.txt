@@ -1,0 +1,81 @@
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\Funds Management System.exe.config
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\Funds Management System.exe
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\Funds Management System.pdb
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\Guna.UI2.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\Npgsql.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.Buffers.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.Collections.Immutable.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.Memory.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.Text.Json.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.Threading.Channels.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.ValueTuple.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\Npgsql.xml
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.Buffers.xml
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.Collections.Immutable.xml
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.Memory.xml
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.Text.Json.xml
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.Threading.Channels.xml
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.ValueTuple.xml
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds Management System.csproj.AssemblyReference.cache
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds_Management_System.Properties.Resources.resources
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds Management System.csproj.GenerateResource.cache
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds Management System.csproj.CoreCompileInputs.cache
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds Management System.exe
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds Management System.pdb
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds_Management_System.LogInForm.resources
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\MySql.Data.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.IO.Pipelines.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\ZstdSharp.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\Google.Protobuf.pdb
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\Google.Protobuf.xml
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\MySql.Data.xml
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\System.IO.Pipelines.xml
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds Ma.94F3E527.Up2Date
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds_Management_System.Creators_Admin_Interface.resources
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds_Management_System.Create_Account.resources
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds_Management_System.Department_Admin_Interface.resources
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds_Management_System.School_Information_Update.resources
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds_Management_System.User_Interface.resources
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds_Management_System.Organization_Admin_Interface.resources
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds_Management_System.Add_Courses_Sections.resources
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\BCrypt.Net.dll
+C:\Users\KC\source\repos\Funds Management System\bin\Debug\BCrypt.Net.xml
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds_Management_System.Events.resources
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds_Management_System.Fund.resources
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds_Management_System.CashFlows.resources
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds_Management_System.Create_Payment.resources
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds_Management_System.Expenses.resources
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds_Management_System.Reciept.resources
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds_Management_System.Reports.resources
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds_Management_System.Org_Initial_Balance1.resources
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds_Management_System.Initial_Receipt.resources
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds_Management_System.withdrawreceipt.resources
+C:\Users\KC\source\repos\Funds Management System\obj\Debug\Funds_Management_System.Developers.resources

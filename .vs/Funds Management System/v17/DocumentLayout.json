@@ -1,0 +1,666 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KC\\source\\repos\\Funds Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\organization_admin_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:organization_admin_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|c:\\users\\kc\\source\\repos\\funds management system\\user_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:user_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\user_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:user_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|c:\\users\\kc\\source\\repos\\funds management system\\user_interface.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:user_interface.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\cashflows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:cashflows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\cashflows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:cashflows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\fund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:fund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\log_in_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:log_in_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\log_in_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:log_in_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\create_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:create_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\department_admin_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:department_admin_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\add_courses_sections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:add_courses_sections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\creators_admin_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:creators_admin_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\department_admin_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:department_admin_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\school_information_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:school_information_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\organization_admin_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:organization_admin_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\create_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:create_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\withdrawreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:withdrawreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\reciept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:reciept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\org_initial_balance1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:org_initial_balance1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\initial receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:initial receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\initial receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:initial receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\developers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:developers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\create_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:create_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\reciept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:reciept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\withdrawreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:withdrawreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:expenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\school_information_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:school_information_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\add_courses_sections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:add_courses_sections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\org_initial_balance1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:org_initial_balance1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\fund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:fund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\create_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:create_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\developers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:developers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\creators_admin_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:creators_admin_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|C:\\Users\\KC\\source\\repos\\Funds Management System\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E191A4A5-47E1-47B3-86AD-A2D47FF6714C}|Funds Management System.csproj|solutionrelative:events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create_Account.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Create_Account.cs",
+              "RelativeDocumentMoniker": "Create_Account.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Create_Account.cs [Design]",
+              "RelativeToolTip": "Create_Account.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T14:16:15.733Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Creators_Admin_Interface.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Creators_Admin_Interface.cs",
+              "RelativeDocumentMoniker": "Creators_Admin_Interface.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Creators_Admin_Interface.cs [Design]",
+              "RelativeToolTip": "Creators_Admin_Interface.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T12:20:17.624Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Department_Admin_Interface.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Department_Admin_Interface.cs",
+              "RelativeDocumentMoniker": "Department_Admin_Interface.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Department_Admin_Interface.cs [Design]",
+              "RelativeToolTip": "Department_Admin_Interface.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:55:24.574Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "School_Information_Update.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\School_Information_Update.cs",
+              "RelativeDocumentMoniker": "School_Information_Update.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\School_Information_Update.cs [Design]",
+              "RelativeToolTip": "School_Information_Update.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T12:23:16.604Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Add_Courses_Sections.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Add_Courses_Sections.cs",
+              "RelativeDocumentMoniker": "Add_Courses_Sections.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Add_Courses_Sections.cs [Design]",
+              "RelativeToolTip": "Add_Courses_Sections.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:37:29.64Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Organization_Admin_Interface.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Organization_Admin_Interface.cs",
+              "RelativeDocumentMoniker": "Organization_Admin_Interface.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Organization_Admin_Interface.cs [Design]",
+              "RelativeToolTip": "Organization_Admin_Interface.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:34:25.515Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Events.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Events.cs",
+              "RelativeDocumentMoniker": "Events.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Events.cs [Design]",
+              "RelativeToolTip": "Events.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T01:50:04.835Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Reciept.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Reciept.cs",
+              "RelativeDocumentMoniker": "Reciept.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Reciept.cs [Design]",
+              "RelativeToolTip": "Reciept.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:02:54.225Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CashFlows.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\CashFlows.cs",
+              "RelativeDocumentMoniker": "CashFlows.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\CashFlows.cs",
+              "RelativeToolTip": "CashFlows.cs",
+              "ViewState": "AQIAACsBAAAAAAAAAAAxwEMBAADKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:01:58.879Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Department_Admin_Interface.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Department_Admin_Interface.cs",
+              "RelativeDocumentMoniker": "Department_Admin_Interface.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Department_Admin_Interface.cs",
+              "RelativeToolTip": "Department_Admin_Interface.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAmwH0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:55:25.996Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Org_Initial_Balance1.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Org_Initial_Balance1.cs",
+              "RelativeDocumentMoniker": "Org_Initial_Balance1.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Org_Initial_Balance1.cs",
+              "RelativeToolTip": "Org_Initial_Balance1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:36:51.928Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Initial Receipt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Initial Receipt.cs",
+              "RelativeDocumentMoniker": "Initial Receipt.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Initial Receipt.cs [Design]",
+              "RelativeToolTip": "Initial Receipt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:39:40.802Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Org_Initial_Balance1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Org_Initial_Balance1.cs",
+              "RelativeDocumentMoniker": "Org_Initial_Balance1.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Org_Initial_Balance1.cs [Design]",
+              "RelativeToolTip": "Org_Initial_Balance1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T02:48:34.123Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Initial Receipt.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Initial Receipt.cs",
+              "RelativeDocumentMoniker": "Initial Receipt.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Initial Receipt.cs",
+              "RelativeToolTip": "Initial Receipt.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAwwIAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:11:18.862Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "withdrawreceipt.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\withdrawreceipt.cs",
+              "RelativeDocumentMoniker": "withdrawreceipt.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\withdrawreceipt.cs",
+              "RelativeToolTip": "withdrawreceipt.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAowLAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:49:34.317Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "withdrawreceipt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\withdrawreceipt.cs",
+              "RelativeDocumentMoniker": "withdrawreceipt.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\withdrawreceipt.cs [Design]",
+              "RelativeToolTip": "withdrawreceipt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:45:07.64Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Creators_Admin_Interface.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Creators_Admin_Interface.cs",
+              "RelativeDocumentMoniker": "Creators_Admin_Interface.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Creators_Admin_Interface.cs",
+              "RelativeToolTip": "Creators_Admin_Interface.cs",
+              "ViewState": "AQIAAPIBAAAAAAAAAAAwwBYCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:15:24.038Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Fund.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Fund.cs",
+              "RelativeDocumentMoniker": "Fund.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Fund.cs",
+              "RelativeToolTip": "Fund.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T02:38:11.327Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "School_Information_Update.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\School_Information_Update.cs",
+              "RelativeDocumentMoniker": "School_Information_Update.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\School_Information_Update.cs",
+              "RelativeToolTip": "School_Information_Update.cs",
+              "ViewState": "AQIAAL4BAAAAAAAAAAAkwPgBAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:30:16.534Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create_Account.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Create_Account.cs",
+              "RelativeDocumentMoniker": "Create_Account.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Create_Account.cs",
+              "RelativeToolTip": "Create_Account.cs",
+              "ViewState": "AQIAAHUBAAAAAAAAAAAcwIMBAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:18:30.23Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User_Interface.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\User_Interface.cs",
+              "RelativeDocumentMoniker": "User_Interface.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\User_Interface.cs",
+              "RelativeToolTip": "User_Interface.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:47:57.917Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User_Interface.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\User_Interface.cs",
+              "RelativeDocumentMoniker": "User_Interface.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\User_Interface.cs [Design]",
+              "RelativeToolTip": "User_Interface.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-13T09:55:17.871Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Log_In_Interface.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Log_In_Interface.cs",
+              "RelativeDocumentMoniker": "Log_In_Interface.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Log_In_Interface.cs",
+              "RelativeToolTip": "Log_In_Interface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:31:20.766Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Add_Courses_Sections.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Add_Courses_Sections.cs",
+              "RelativeDocumentMoniker": "Add_Courses_Sections.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Add_Courses_Sections.cs",
+              "RelativeToolTip": "Add_Courses_Sections.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:10:19.971Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Organization_Admin_Interface.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Organization_Admin_Interface.cs",
+              "RelativeDocumentMoniker": "Organization_Admin_Interface.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Organization_Admin_Interface.cs",
+              "RelativeToolTip": "Organization_Admin_Interface.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:09:56.183Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fund.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Fund.cs",
+              "RelativeDocumentMoniker": "Fund.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Fund.cs [Design]",
+              "RelativeToolTip": "Fund.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T01:55:29.353Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create_Payment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Create_Payment.cs",
+              "RelativeDocumentMoniker": "Create_Payment.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Create_Payment.cs [Design]",
+              "RelativeToolTip": "Create_Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T01:56:00.38Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create_Payment.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Create_Payment.cs",
+              "RelativeDocumentMoniker": "Create_Payment.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Create_Payment.cs",
+              "RelativeToolTip": "Create_Payment.cs",
+              "ViewState": "AQIAACgBAAAAAAAAAAAAADUBAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:16:35.312Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Expenses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Expenses.cs",
+              "RelativeDocumentMoniker": "Expenses.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Expenses.cs [Design]",
+              "RelativeToolTip": "Expenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:33:08.072Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CashFlows.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\CashFlows.cs",
+              "RelativeDocumentMoniker": "CashFlows.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\CashFlows.cs [Design]",
+              "RelativeToolTip": "CashFlows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T01:54:28.782Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Events.cs",
+              "RelativeDocumentMoniker": "Events.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Events.cs",
+              "RelativeToolTip": "Events.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:21:47.748Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Expenses.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Expenses.cs",
+              "RelativeDocumentMoniker": "Expenses.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Expenses.cs",
+              "RelativeToolTip": "Expenses.cs",
+              "ViewState": "AQIAAPQAAAAAAAAAAAAUwBIBAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:14:56.922Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User_Interface.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\User_Interface.Designer.cs",
+              "RelativeDocumentMoniker": "User_Interface.Designer.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\User_Interface.Designer.cs",
+              "RelativeToolTip": "User_Interface.Designer.cs",
+              "ViewState": "AQIAAOsDAAAAAAAAAAAQwAEEAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:07:15.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Developers.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Developers.cs",
+              "RelativeDocumentMoniker": "Developers.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Developers.cs",
+              "RelativeToolTip": "Developers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T00:03:41.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Developers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Developers.cs",
+              "RelativeDocumentMoniker": "Developers.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Developers.cs [Design]",
+              "RelativeToolTip": "Developers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:41:13.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Reciept.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Reciept.cs",
+              "RelativeDocumentMoniker": "Reciept.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Reciept.cs",
+              "RelativeToolTip": "Reciept.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:38:37.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Log_In_Interface.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Log_In_Interface.cs",
+              "RelativeDocumentMoniker": "Log_In_Interface.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Log_In_Interface.cs [Design]",
+              "RelativeToolTip": "Log_In_Interface.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:01:26.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Reports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Reports.cs",
+              "RelativeDocumentMoniker": "Reports.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Reports.cs [Design]",
+              "RelativeToolTip": "Reports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T01:53:57.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Reports.cs",
+              "DocumentMoniker": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Reports.cs",
+              "RelativeDocumentMoniker": "Reports.cs",
+              "ToolTip": "C:\\Users\\KC\\source\\repos\\Funds Management System\\Reports.cs",
+              "RelativeToolTip": "Reports.cs",
+              "ViewState": "AQIAAAwBAAAAAAAAAAAUwEMBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:35:33.25Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
